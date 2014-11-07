@@ -1,0 +1,6 @@
+
+#ignore class file
+*.class
+
+#ignore bin/classes
+bin\classes
